@@ -1,7 +1,7 @@
 
 # Excel Salary Dashboard
 
-![1_Salary_Dashboard.png](Project/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+![1_Salary_Dashboard.png](Images/1_Salary_Dashboard_Final_Dashboard.gif)
 
 ## Introduction
 
@@ -33,7 +33,7 @@ The dataset used for this project contains real-world data science job informati
 
 ####  Data Science Job Salaries - Bar Chart
 
-<img src="Project/Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
+<img src="Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
 
 -  **Excel Features:** Used bar chart feature with formatted salary values and optimized layout for clarity.
 -  **Design Choice:** Horizontal bar chart for easy comparison of median salaries.
@@ -42,7 +42,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### Country Median Salaries - Map Chart
 
-![1_Salary_Dashboard_Chart2.png](Project/Images/1_Salary_Dashboard_Country_Map.gif)
+![1_Salary_Dashboard_Chart2.png](Images/1_Salary_Dashboard_Country_Map.gif)
 
 -  **Excel Features:** Used map chart feature to plot median salaries globally.
 -  **Design Choice:** Color-coded map for visual differentiation of salary levels by region.
@@ -73,11 +73,11 @@ IF(
 
  Background Table
 
-![1_Salary_Dashboard_Screenshot1.png](Project/Images/1_Salary_Dashboard_Screenshot1.png)
+![1_Salary_Dashboard_Screenshot1.png](Images/1_Salary_Dashboard_Screenshot1.png)
 
  Dashboard Implementation
 
-<img src="Project/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+<img src="Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
 
 ####  Count of Job Schedule Type
 
@@ -90,11 +90,11 @@ IF(
 
  Background Table
 
-![1_Salary_Dashboard_Type.png](Project/Images/1_Salary_Dashboard_Screenshot2.png)
+![1_Salary_Dashboard_Type.png](Images/1_Salary_Dashboard_Screenshot2.png)
 
  Dashboard Implementation:
 
-<img src="Project/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
+<img src="Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
 
 ### Data Validation
 
@@ -105,7 +105,7 @@ IF(
     -  Incorrect or inconsistent entries are prevented
     -  Overall usability of the dashboard is enhanced
 
-<img src="Project/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
+<img src="Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
 
 ## Conclusion
 
